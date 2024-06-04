@@ -35,7 +35,6 @@ Un cop el joc s'ha iniciat, utilitza les següents tecles per controlar les pece
 ## Screenshots
 ![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/7a19ccf1-00ef-45c5-9104-3644e8cb7075)
 
-![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/e914a087-7492-4bd3-a7d1-9713aa79fbf1)
 
 ![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/dedd9dc1-98e0-4b05-b64a-24db4f7adf6e)
 
