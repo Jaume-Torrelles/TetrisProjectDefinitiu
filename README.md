@@ -18,6 +18,12 @@ El Tetris és un joc de puzzle clàssic en el qual els jugadors han d'encaixar p
 
 ## Utilització
 
+Cal fer el seguent abans de "buildear" la solucio de visual:
+
+Project > Properties > Linker > System > Subsystem > Console (/SUBSYSTEM:CONSOLE)
++
+Run on x86
+
 Un cop el joc s'ha iniciat, utilitza les següents tecles per controlar les peces:
 
 - Moure cap a l'esquerra: Tecla esquerra
@@ -25,6 +31,17 @@ Un cop el joc s'ha iniciat, utilitza les següents tecles per controlar les pece
 - Girar la peça: Tecla de dalt / abaix
 - Fer caure ràpidament: Tecla d'espai
 - Sortir: Tecla "ESC"
+
+## Screenshots
+
+![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/e914a087-7492-4bd3-a7d1-9713aa79fbf1)
+
+![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/dedd9dc1-98e0-4b05-b64a-24db4f7adf6e)
+
+![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/5f7eb5a8-3501-46fe-9f73-db2db737e1a7)
+
+![image](https://github.com/Jaume-Torrelles/TetrisProjectDefinitiu/assets/167409979/1d4e08d3-0f42-4dc5-83d8-6db997175958)
+
 
 ## Autors
 
